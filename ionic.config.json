@@ -1,0 +1,8 @@
+{
+  "name": "Delhi Palace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8ff70f21"
+}
